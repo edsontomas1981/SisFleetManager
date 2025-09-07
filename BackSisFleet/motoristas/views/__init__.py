@@ -1,0 +1,2 @@
+from motoristas.views.motoristas import MotoristasView
+from motoristas.views.app_motoristas import AppMotoristasView

@@ -1,0 +1,1 @@
+from veiculos.views.veiculos import VeiculosView

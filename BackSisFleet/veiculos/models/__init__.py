@@ -1,0 +1,1 @@
+from veiculos.models.veiculos import Veiculo
